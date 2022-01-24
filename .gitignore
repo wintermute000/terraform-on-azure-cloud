@@ -30,3 +30,5 @@ override.tf.json
 
 # Mac Files
 .DS_Store
+
+terraform-azure.pem
